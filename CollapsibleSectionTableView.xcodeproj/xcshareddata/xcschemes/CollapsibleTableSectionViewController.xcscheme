@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0A8BD66B1F231B2C003D6155"
-               BuildableName = "CollapsibleTableSectionViewController.framework"
-               BlueprintName = "CollapsibleTableSectionViewController"
-               ReferencedContainer = "container:CollapsibleTableSectionViewController.xcodeproj">
+               BuildableName = "CollapsibleSectionTableView.framework"
+               BlueprintName = "CollapsibleSectionTableView"
+               ReferencedContainer = "container:CollapsibleSectionTableView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,6 +26,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES"
       codeCoverageEnabled = "YES">
       <Testables>
@@ -36,7 +37,7 @@
                BlueprintIdentifier = "0A8BD6741F231B2C003D6155"
                BuildableName = "CollapsibleTableSectionViewControllerTests.xctest"
                BlueprintName = "CollapsibleTableSectionViewControllerTests"
-               ReferencedContainer = "container:CollapsibleTableSectionViewController.xcodeproj">
+               ReferencedContainer = "container:CollapsibleSectionTableView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A8BD66B1F231B2C003D6155"
-            BuildableName = "CollapsibleTableSectionViewController.framework"
-            BlueprintName = "CollapsibleTableSectionViewController"
-            ReferencedContainer = "container:CollapsibleTableSectionViewController.xcodeproj">
+            BuildableName = "CollapsibleSectionTableView.framework"
+            BlueprintName = "CollapsibleSectionTableView"
+            ReferencedContainer = "container:CollapsibleSectionTableView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,6 +57,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -66,9 +68,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A8BD66B1F231B2C003D6155"
-            BuildableName = "CollapsibleTableSectionViewController.framework"
-            BlueprintName = "CollapsibleTableSectionViewController"
-            ReferencedContainer = "container:CollapsibleTableSectionViewController.xcodeproj">
+            BuildableName = "CollapsibleSectionTableView.framework"
+            BlueprintName = "CollapsibleSectionTableView"
+            ReferencedContainer = "container:CollapsibleSectionTableView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -84,9 +86,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0A8BD66B1F231B2C003D6155"
-            BuildableName = "CollapsibleTableSectionViewController.framework"
-            BlueprintName = "CollapsibleTableSectionViewController"
-            ReferencedContainer = "container:CollapsibleTableSectionViewController.xcodeproj">
+            BuildableName = "CollapsibleSectionTableView.framework"
+            BlueprintName = "CollapsibleSectionTableView"
+            ReferencedContainer = "container:CollapsibleSectionTableView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
