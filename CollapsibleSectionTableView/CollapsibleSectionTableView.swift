@@ -33,6 +33,10 @@ open class CollapsibleSectionTableView: UITableView, CollapsibleTableViewHeaderD
         return _sectionsState[section]!
     }
 
+    public func setSectionCollapsed(_ section: Int, collapsed: Bool) {
+        toggleSection(section)
+    }
+
     func getSectionsNeedReload(_ section: Int) -> [Int] {
         var sectionsNeedReload = [section]
 
